@@ -29,7 +29,7 @@ public class LocatorExample {
 		driver.findElement(By.linkText("Books")).click();
 		Thread.sleep(2000);
 		driver.findElement(By.partialLinkText("Learn Selenium in 1 Day")).click();
-	
+		
 	}
 
 }
