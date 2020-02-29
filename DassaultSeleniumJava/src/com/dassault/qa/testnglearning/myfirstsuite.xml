@@ -1,0 +1,16 @@
+<suite name="Facebook And Rediff Tests">
+
+	<test name="Facebook Test">
+		<classes>
+			<class name="com.dassault.qa.testnglearning.TestNGFacebookWindowTest2"></class>
+			<class name="com.dassault.qa.testnglearning.TestNGBasicsExamples"></class>
+		</classes>
+	</test>
+	
+	<test name="Rediff Test">
+		<classes>
+			<class name="com.dassault.qa.testnglearning.TestNGRediffLoginError"></class>		
+		</classes>
+	</test>
+
+</suite>
